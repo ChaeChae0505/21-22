@@ -7,4 +7,6 @@
 - 해당 부분에 대하여 이미지처리를 통해 물병 안의 물이 차지하고 있는 부피를 계산하는 프로젝트
 - Yolov5 부분은 제외하고, 뒷 부분만 upload
 
-###
+### [Manipulation pick and place](/UR_ZIVID/README.md)
+- 진행 일자 : 2021-2학기
+- 진행 이유 : 
