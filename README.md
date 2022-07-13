@@ -1,4 +1,4 @@
-# 21-22 CODE
+# 21-22 HYU-KITECH
 
 
 ### Long-term project
