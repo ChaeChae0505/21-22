@@ -1,7 +1,7 @@
 # 21-22 HYU-KITECH
 
 
-### Long-term project
+### Main project
 
 
 #### [Social-distancing by using lidar-camera sensor fusing ]
@@ -19,8 +19,8 @@
 - 진행 일자 : 2021-1학기
 
 
-### Short-term project
-
+### Side project
+#### [Point cloud using.... Open3D]
 #### [6dof pose estimation]
 - 진행 일자: 
 #### [Bottle Project](/BottleProject/README.md)
